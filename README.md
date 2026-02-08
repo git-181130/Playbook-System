@@ -1,5 +1,7 @@
 # AUMI — AI Governance Playbooks
 
+A curated collection of production-ready AI governance and operations playbooks for managing reliability, safety, data quality, monitoring, and prompt changes.
+
 A public repository containing practical, production-oriented playbooks for operating and governing AI systems under the AUMI (Human-Centered AI Responsibility Framework).
 
 These playbooks focus on reliability, safety, data integrity, monitoring, and prompt governance in real-world AI deployments.
